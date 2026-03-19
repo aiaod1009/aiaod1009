@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hello World
-前端学习者·C/Python开发者 | 美术+乐器爱好者 | ISFJ天秤座
 
 ## 🛠️ Tech Stack
 **Proficient In**
@@ -28,32 +27,3 @@ Here are some ideas to get you started:
 ![ArkTS](https://img.shields.io/badge/ArkTS-3456C4?style=for-the-badge&logo=harmonyos&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-**In Progress**
-
-## 📌 Projects
-### 简易图书管理系统
-[✨ 项目地址](https://github.com/aiaod1009/book-management-system)
-- **技术栈**：C语言
-- **核心功能**：图书录入/查询/排序、文件存储数据持久化
-- **亮点**：模块化代码设计，适配基础业务场景
-
-### 鸿蒙简易教务系统
-[✨ 项目地址](https://github.com/aiaod1009/edu-management-system)
-- **技术栈**：ArkTS、TypeScript、鸿蒙 UI 组件
-- **核心功能**：课程信息展示、个人中心管理、通知推送、基础教务设置
-- **亮点**：
-  - 采用分层布局实现响应式界面
-  - 运用装饰器、组件生命周期等特性提升性能与可维护性
-  - 集成弹窗、表单、列表等高频交互组件，还原教务系统核心体验
-
-## 🎨 Interests & Skills
-### 艺术技能
-- 美术：8年绘画功底
-- 乐器：钢琴+古筝 | 尤克里里（学习中）
-
-### Personality
-ISFJ·天秤座 | 耐心细致·擅长协作·审美在线
-
-## 📫 联系我
-- GitHub: [@aiaod1009](https://github.com/aiaod1009)
