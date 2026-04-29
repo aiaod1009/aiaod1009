@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 ![ArkTS](https://img.shields.io/badge/ArkTS-3456C4?style=for-the-badge&logo=harmonyos&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white" alt="NODE.JS" />
