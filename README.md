@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 👋 Hello World
 
 ## 🛠️ Tech Stack
-**Proficient In**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![算法与数据结构](https://img.shields.io/badge/算法与数据结构-000000?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -27,4 +26,4 @@ Here are some ideas to get you started:
 ![ArkTS](https://img.shields.io/badge/ArkTS-3456C4?style=for-the-badge&logo=harmonyos&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white" alt="NODE.JS" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
